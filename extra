@@ -1,0 +1,38 @@
+//STEP TO INSTALL///
+> https://www.sas.com/en_in/software/university-edition/download-software.html#mac-os-x
+
+> Install virtual box
+> Create new folder by thee name SASUNIVERSITYEDITION
+> Insiide above folde create 'myfolders'
+> Download SASUNIVERSITYEDITION(.ova file)
+> click on import in virtual box
+> Select Ova file
+> Continue and import 
+********
+This will make one OVA platform for SAS
+*******
+> Select and run
+> In browser navigate to http://localhost:10080/SASInformationCenter/index.html
+> Click "SAS start studio"
+
+
+///////Rule for SAS Name//////
+> name of SAA - onlnumber ,characters or '_'
+> lenght should be less than 32
+> avoid starting with '_'
+
+
+//////CYCLE IN DATA ANLYSIS//////
+>access -> Mange -> analyse -> report -> access
+
+**
+Case insenstivity can wee taken in 'variables' 
+not in 'observation'
+
+
+//////Github//////
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/Edu_SAS_Feb_20.git
+git push -u origin master
