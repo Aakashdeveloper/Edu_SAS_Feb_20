@@ -54,3 +54,13 @@ Time
 //use external csv//
 //import//
 
+
+
+One to one => Columne binding(Prefer with different variable)
+**Variable in dataset is different we will extra Columne
+**If variable is same than output will have only second dataset
+
+Concat => Row Binding(Prefer with same variable)
+**If variable name is same data will come one under other;
+**If variable name is different still it will come one
+    under other but different label have blank value
