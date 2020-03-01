@@ -66,3 +66,15 @@ Concat => Row Binding(Prefer with same variable)
 **If variable name is same data will come one under other;
 **If variable name is different still it will come one
     under other but different label have blank value
+
+
+//*********Descriptive statics********\\  
+Understand your data
+> Centriod of data (Mean Medan, mode)
+> Disperssions - Std Deviations
+> correlections -> If one change than other will effected
+
+
+//*********Infrential statics********\\  
+Clusetring
+Regression=>Logistic & Linear
